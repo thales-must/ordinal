@@ -1,0 +1,2 @@
+# ordinal
+article in blockchain
